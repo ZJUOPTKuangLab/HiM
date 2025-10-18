@@ -1,2 +1,5 @@
 # HiM
 ​​HiM (Hybrid iterative ptychographic super-resolution Microscopy)​​ is an advanced computational imaging method that synergistically combines a honeycomb array detection architecture with a hybrid high-frequency expansion algorithm. It achieves ~60nm super-resolution while significantly reducing photobleaching effects. This repository contains implementation code for super-resolution reconstruction and sample test data.
+
+## Quick Start
+Download and extract data.7z, then execute HiM_main.m in MATLAB to perform the reconstruction.
